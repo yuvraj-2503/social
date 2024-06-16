@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac3b20c0-640f-4f2b-b68e-3260fb459fda" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/server/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/meta/server/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/meta/server/ServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/meta/server/users/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/meta/server/users/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/meta/server/users/repo/UsersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/meta/server/users/repo/UsersRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/meta/server/users/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/meta/server/users/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="ac3b20c0-640f-4f2b-b68e-3260fb459fda" name="Changes" comment="implemented token verification and protected apis in server side" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,9 +129,33 @@
       <updated>1717785522215</updated>
       <workItem from="1717785523239" duration="1429000" />
     </task>
+    <task id="LOCAL-00001" summary="implemented token verification and protected apis in server side">
+      <option name="closed" value="true" />
+      <created>1718534104815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718534104815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implemented token verification and protected apis in server side" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented token verification and protected apis in server side" />
   </component>
 </project>

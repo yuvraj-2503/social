@@ -12,6 +12,7 @@ repositories {
 }
 
 dependencies {
+    implementation 'com.meta:util:1.0-SNAPSHOT'
     compileOnly 'org.projectlombok:lombok:1.18.32'
     annotationProcessor 'org.projectlombok:lombok:1.18.32'
 
