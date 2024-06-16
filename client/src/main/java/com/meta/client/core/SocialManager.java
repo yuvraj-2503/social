@@ -5,6 +5,9 @@ import com.meta.common.users.UserDetails;
 
 import java.util.concurrent.CompletableFuture;
 
+/**
+ * @author Yuvraj Singh
+ */
 public interface SocialManager {
     CompletableFuture<Result> registerUser(UserDetails userDetails);
 }

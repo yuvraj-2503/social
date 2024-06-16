@@ -11,6 +11,9 @@ import com.meta.util.json.Json;
 
 import java.util.concurrent.CompletableFuture;
 
+/**
+ * @author Yuvraj Singh
+ */
 public class UserClient {
     private final String BASE_URL;
     private final Json json;

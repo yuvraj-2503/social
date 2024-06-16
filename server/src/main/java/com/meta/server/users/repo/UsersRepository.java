@@ -8,6 +8,9 @@ import com.meta.common.users.UserDetails;
 
 import java.util.Optional;
 
+/**
+ * @author Yuvraj Singh
+ */
 @Repository
 @EnableAsync
 public interface UsersRepository extends MongoRepository<UserDetails, String> {

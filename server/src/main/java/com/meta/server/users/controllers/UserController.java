@@ -12,6 +12,9 @@ import com.meta.common.users.UserDetails;
 
 import java.util.concurrent.CompletableFuture;
 
+/**
+ * @author Yuvraj Singh
+ */
 @RestController
 @RequestMapping("/api/v1/users")
 public class UserController {

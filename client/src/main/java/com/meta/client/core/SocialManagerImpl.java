@@ -6,6 +6,9 @@ import com.meta.common.users.UserDetails;
 
 import java.util.concurrent.CompletableFuture;
 
+/**
+ * @author Yuvraj Singh
+ */
 public class SocialManagerImpl implements SocialManager{
     private final UserClient userClient;
 

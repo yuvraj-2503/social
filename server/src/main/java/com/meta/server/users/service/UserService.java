@@ -6,6 +6,9 @@ import com.meta.common.users.UserDetails;
 
 import java.util.concurrent.CompletableFuture;
 
+/**
+ * @author Yuvraj Singh
+ */
 @Service
 public interface UserService {
     CompletableFuture<Result> registerUser(UserDetails userDetails);
